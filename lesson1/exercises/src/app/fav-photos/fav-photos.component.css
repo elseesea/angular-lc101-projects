@@ -3,7 +3,11 @@ h3 {
 }
 
 img {
-
+	width: 200px;
+	border-width: 20px;
+	border: solid;
+	border-radius: 25px;
+	border-color: gray;
 }
 
 .photos {
